@@ -43,6 +43,10 @@ Each token's name and lexeme is printed to stdout.
 
 ## Build & run
 
+> For a guided, copy-pasteable walkthrough — compiler install per OS,
+> verification, extra sample inputs, and troubleshooting — see
+> **[PLAYBOOK.md](PLAYBOOK.md)**.
+
 ### Linux / macOS
 ```bash
 g++ -std=c++17 -Wall -o lexer concept.cpp
